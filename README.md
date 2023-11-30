@@ -35,20 +35,54 @@ Write the detailed procedure here
 ## Program:
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+
+Developed by: VISWA PRAKAASH N J
+
+RegisterNumber:  23001661
+
+Code:
+
+Half Subtractor:
+
+![Exp4 hs code - Copy](https://github.com/ViswaPrakaashNJ/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150996664/3da386f1-ddbc-4d6f-ba66-0c75070f5fc9)
+
+Full Subtractor:
+
+![Exp4 fs code](https://github.com/ViswaPrakaashNJ/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150996664/14db87ad-3a79-49a4-9e57-1610a6c31a6a)
+
+Truth table:
+
+Half subtractor:
+
+![Exp4 truthtable hs](https://github.com/ViswaPrakaashNJ/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150996664/aefb72fd-13e0-4127-a02f-061af656fde2)
+
+Full   Subtractor:
+
+![Exp4 truthtable fs](https://github.com/ViswaPrakaashNJ/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150996664/3bffbfb4-5059-4da4-80e2-2307c19ce089)
+
+RTL Diagram:
+
+Half Subtractor:
+
+![Exp4 hs RTL diagram](https://github.com/ViswaPrakaashNJ/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150996664/0f79d4d1-e3df-4be1-934a-efba0707f727)
+
+Full Subtractor:
+
+![Exp4 fs RTL diagram](https://github.com/ViswaPrakaashNJ/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150996664/1dceddff-dffd-489b-aa94-87ea869e24e0)
 
 ## Output:
 
-## Truthtable
+Half Subtractor:
+
+![Exp3 hs wave](https://github.com/ViswaPrakaashNJ/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150996664/083bfa6c-768f-4451-aad7-ccf9244f21b0)
+
+Full Subtractor:
+
+![Exp3 fs wave](https://github.com/ViswaPrakaashNJ/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150996664/6a735c4a-3cd5-415b-ab8e-6a3d34821f9c)
 
 
 
-##  RTL realization
 
-
-## Timing diagram 
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
